@@ -1,0 +1,1 @@
+# scrapy-french-dict
