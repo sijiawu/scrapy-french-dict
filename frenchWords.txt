@@ -1,0 +1,609 @@
+f1@regarder@to look at, watch@verb
+f2@appeler@to call, ring@verb
+f3@peu@not much, not very, few; bit@noun, adverb
+f4@partir@to go, leave, go away@verb
+f5@toujours@always, still@adverb
+f6@femme@woman, wife@noun
+f7@maintenant@now, nowadays@adverb
+f8@vie@life, lifetime, existence@noun
+f9@mettre@to put, put on, wear; languagedaily dot com@verb
+f10@sans@without@preposition
+f11@arrêter@to stop@verb
+f12@connaître@to know, experience@verb
+f13@sûr@on, over@adjective
+f14@mourir@to die, pass away@verb
+f15@juste@just, fair; just, right, accurate; french.languagedaily.com@adjective, adverb
+f16@dieu@god@noun
+f17@oh@oh!@onomatopoeia
+f18@comprendre@to understand@verb
+f19@personne@anyone, anybody; person, individual@indefinite pronoun, noun
+f20@trop@too much, too (excessively)@adverb
+f21@fille@daughter, girl, gal@noun
+f22@monde@world, people@noun
+f23@vrai@true, real, genuine@adjective
+f24@mal@trouble, difficulty; badly, wrongly@adverb, noun
+f25@accord@agreement, accord, harmony@noun
+f26@encore@again, over again, even, still@adverb
+f27@est-ce que@is it@adverb
+f28@homme@man@noun
+f29@ma@my (used before a feminine singular noun)  (see #27, 50)@possessive adjective
+f30@jour@day, daytime@noun
+f31@temps@weather; time; times@noun
+f32@notre@our (singular) (see #192)@possessive adjective
+f33@deux@two@numerical adjective
+f34@rester@to stay, remain@verb
+f35@seul@alone@adjective, noun
+f36@vraiment@really, truly@adverb
+f37@quelque@some, a few, any@indefinite adjective, adverb
+f38@tuer@to kill@verb
+f39@demander@to ask, ask for, be looking for@verb
+f40@peut-être@perhaps, maybe@adverb
+f41@fois@time@noun
+f42@père@father@noun
+f43@sortir@to go out; take out@verb
+f44@an@year@noun
+f45@chez@at, to, in@preposition
+f46@aux@(à + les) = of the@definite article
+f47@ami@friend; friendly@noun, adjective
+f48@après@after, afterwards, later@preposition, adverb
+f49@besoin@need, demand, necessity@noun
+f50@ses@his, her, its (plural)@possessive adjective
+f1@avant@before@preposition, adverb
+f2@enfant@child, infant@noun
+f3@entendre@to hear, listen to, understand@verb
+f4@chercher@to look for, seek@verb
+f5@mieux@better, utmost, best; improvement@adverb, noun
+f6@aider@to help, aid@verb
+f7@déjà@already, before@adverb
+f8@essayer@to try, try out, test@verb
+f9@vos@your (plural, from ''votre'')@possessive adjective
+f10@quelqu'un@someone, somebody@indefinite pronoun
+f11@revenir@to come back, return@verb
+f12@plaire@to be successful@verb
+f13@gens@people (plural)@noun
+f14@ah@ah!@onomatopoeia
+f15@nom@name; noun@noun
+f16@jouer@to play@verb
+f17@finir@to finish, end@verb
+f18@mort@death; dead@noun, adjective
+f19@perdre@to lose, miss@verb
+f20@sentir@to smell, sniff, feel@verb
+f21@rentrer@to bring in, take in; to get in, go in, come home@verb
+f22@premier@first, basic; first floor@adjective, noun
+f23@argent@silver, money@noun
+f24@vivre@to live, be alive, go through@verb
+f25@dernier@last, latest@adjective, noun
+f26@monsieur@gentleman, Mr@noun
+f27@grand@big, large, tall, great; big boy, big girl@adjective, noun
+f28@voilà@there is, there are@preposition
+f29@heure@hour; time; age@noun
+f30@tes@your (plural)@possessive adjective
+f31@mère@mother@noun
+f32@beau@beautiful, lovely, pretty; fine, nice (weather)@adjective
+f33@quel@what, which (interrogative)@interrogative adjective
+f34@depuis@since, from, for;  french.languagedaily.com@preposition, adverb
+f35@beaucoup@much, many, a lot@adverb
+f36@donc@so, therefore@conjunction
+f37@maison@house, home@noun
+f38@nuit@night@noun
+f39@soir@evening, night@noun
+f40@bonjour@hello (see #207)@noun
+f41@leur@their, to them (mas or fem), theirs (masc, fem, plural)@personal pronoun, possessive pronoun
+f42@peur@fear, fright@noun
+f43@parce que@because, for@conjunction
+f44@maman@mummy, mama, mom@noun
+f45@ouais@yeah, yep@adverb
+f46@nos@our (plural) (see #114); languagedaily dot com@possessive adjective
+f47@problème@problem@noun
+f48@quelle@who, what, which@interrogative adjective
+f49@rendre@to return, give back, repay@verb
+f50@tenir@to hold, run, keep, last@verb
+f1@fête@party, celebration@noun
+f2@esprit@mind, brain, wit, spirit, esprit@noun
+f3@seigneur@lord (e Seigneur = the Lord)@noun
+f4@parfois@sometimes@adverb
+f5@âge@age@noun
+f6@force@force, strength@noun
+f7@quatre@four@numerical adjective
+f8@difficile@difficult, strenuous, hard@adjective
+f9@tromper@to deceive; to make a mistake@verb
+f10@ressembler@to look like, to resemble@verb
+f11@plan@map, plan, layout@noun
+f12@haut@high, elevated; top@noun, adjective
+f13@remettre@to put back; hand over; postpone; put back on@verb
+f14@paix@peace, calmness; quiet, calm (see #461)@noun
+f15@drôle@funny, peculiar@adjective
+f16@dès@from@preposition
+f17@cours@class, course@noun
+f18@terminer@to end, finish@verb
+f19@partout@everywhere@adverb
+f20@patron@boss, manager, owner@noun
+f21@celle@the one, that one (feminine singular) (see #345, 408)@demonstrative pronoun
+f22@intéresser@to interest@verb
+f23@rire@to laugh, have fun, joke@verb
+f24@rapport@report, connection, link, relationship@noun
+f25@avis@opinion; notice@noun
+f26@retour@return; french.languagedaily.com@noun
+f27@simple@simple@adjective
+f28@exister@to exist@verb
+f29@souvent@often@adverb
+f30@génial@great, brilliant@adjective
+f31@dollar@dollar@noun
+f32@pareil@the same@adjective
+f33@ceci@this (formal contexts; refers to nouns that have no specific gender) (see #20, 203)@demonstrative pronoun
+f34@bizarre@odd, starnge, bizarre@adjective
+f35@protéger@to protect@verb
+f36@tôt@early@adverb
+f37@prévenir@to tell, inform, prevent@verb
+f38@ailleurs@elsewhere, somewhere else@adverb
+f39@maître@master, ruler, mistress, school teacher@noun
+f40@bout@bit, tip, end@noun
+f41@faim@hunger@noun
+f42@l'un@a, an, one (replaces 'un' when 'un' is a pronoun or at the beginning of a sentence) (see #14)@indefinite pronoun
+f43@normal@normal, usual@adjective
+f44@reprendre@to recapture, take back@verb
+f45@prix@price; prize@noun
+f46@détruire@to destroy, ruin@verb
+f47@pousser@to push, press@verb
+f48@gueule@mouth@noun
+f49@vivant@vibrant, living, alive@adjective
+f50@couper@to cut, cut off@verb
+f51@taire@to be silent, stop talking@verb
+f52@flic@cop, policeman@noun
+f53@capitaine@captain@noun
+f54@autant@so much, so many@adverb
+f55@pièce@room; play; coin; piece@noun
+f56@cul@bum, ass@noun
+f57@bras@arm@noun
+f58@surtout@above all@adverb
+f59@jurer@to swear@verb
+f60@prison@prison, jail@noun
+f61@courir@to run, rush@verb
+f62@état@state@noun
+f63@carte@map, card; french.languagedaily.com@noun
+f64@exactement@exactly, accurately, precisely@adverb
+f65@refuser@to refuse, turn down@verb
+f66@président@president, chairman@noun
+f67@grave@serious, grave, solemn@adjective
+f68@ciel@sky@noun
+f69@âme@soul@noun
+f70@amuser@to amuse, entertain@verb
+f71@visage@face@noun
+f72@reconnaître@to recognize, acknowledge@verb
+f73@médecin@doctor, physician, medical practitioner, MD (see #363)@noun
+f74@pardonner@to forgive, pardon, excuse@verb
+f75@embrasser@to kiss; to embrace, encompass@verb
+f76@laquelle@which one = (le + quelle) (feminine singular) (see #578)@relative pronoun, interrogative pronoun
+f77@danser@to dance@verb
+f78@différent@different, various, other@adjective
+f79@lumière@light@noun
+f80@libre@free, vacant@adjective
+f81@sûrement@surely, certainly, most probably@adverb
+f82@hôpital@hospital@noun
+f83@réussir@to be successful, succeed@verb
+f84@voix@voice@noun
+f85@honneur@honor (US), honour@noun
+f86@équipe@team, crew, party@noun
+f87@cheval@horse@noun
+f88@lequel@which one = (le + quel) (masculine singular) (see #554)@relative pronoun, interrogative pronoun
+f89@avion@plane@noun
+f90@habiter@to live in@verb
+f91@ensuite@then, next, afterwards@adverb
+f92@froid@cold@adjective
+f93@déranger@to disturb, upset@verb
+f94@oncle@uncle@noun
+f95@retard@delay, lateness@noun
+f96@cadeau@present, gift@noun
+f97@face@face; heads@noun
+f98@chemin@path, way@noun
+f99@général@general (military)@noun
+f1@bateau@boat, ship@noun
+f2@sac@bag, sack@noun
+f3@seconde@second, moment@noun
+f4@découvrir@to discover, find@verb
+f5@soleil@sun, sunlight@noun
+f6@sauter@to jump@verb
+f7@détester@to hate, detest@verb
+f8@faux@wrong, false, fallacious@adjective
+f9@balle@ball (sports equipment)@noun
+f10@maintenir@to keep, maintain@verb
+f11@papier@paper@noun
+f12@sujet@subject, topic, theme@noun
+f13@tranquille@quiet, calm@adjective
+f14@épouser@to marry, to espouse@verb
+f15@table@table; french.languagedaily.com@noun
+f16@dix@ten, tenth@numerical adjective
+f17@agent@officer, oficial, agent@noun
+f18@sens@direction, way; meaning; sense; senses@noun
+f19@six@six@numerical adjective
+f20@crier@to shout@verb
+f21@inviter@to invite@verb
+f22@réfléchir@to reflect, think@verb
+f23@arranger@to arrange, to organize@verb
+f24@allô@Hello! (telephone)@onomatopoeia
+f25@propos@subject, topic, remark, point@noun
+f26@sorte@sort, kind@noun
+f27@début@beginning@noun
+f28@jambe@leg@noun
+f29@choix@choice, selection@noun
+f30@avocat@lawyer@noun
+f31@client@customer, client, guest@noun
+f32@dépêcher@to dispatch@verb
+f33@dame@lady, queen@noun
+f34@abandonner@to abandon, leave, desert@verb
+f35@sérieux@genuine, serious@adjective
+f36@or@gold@noun
+f37@fond@bottom, back@noun
+f38@fric@doug, money, cash@noun
+f39@euh@Er…@onomatopoeia
+f40@accident@accident@noun
+f41@scène@scene@noun
+f42@amoureux@loving@adjective
+f43@preuve@proof, evidence@noun
+f44@mer@sea, seaside@noun
+f45@télé@TV, telly@noun
+f46@complètement@completely, fully, in depth@adverb
+f47@garde@guard; carer, nurse@noun
+f48@groupe@group@noun
+f49@traiter@to treat; to deal@verb
+f50@blesser@to injure, wound, hurt@verb
+f51@million@million@noun
+f52@impossible@impossible@adjective
+f53@bête@stupid, silly@noun, adjective
+f54@erreur@error, mistake@noun
+f55@voyage@trip, journey@noun
+f56@rêver@to dream@verb
+f57@clair@clear, apparent@adjective
+f58@paraître@to come out, be published@verb
+f59@empêcher@to prevent@verb
+f60@cheveu@a hair@noun
+f61@présent@a present; present, current@noun, adjective
+f62@supposer@to suppose, assume@verb
+f63@neuf@nine; new, unused@numerical adjective, adjective
+f64@blanc@white; blank@adjective
+f65@toute@everything, all (see #22, 256)@indefinite adjective
+f66@clé@key; solutioin@noun
+f67@approcher@to approach@verb
+f68@craindre@to fear, to be afraid of@verb
+f69@message@message@noun
+f70@salle@room, hall, audience@noun
+f71@effet@effect, impression@noun
+f72@espèce@species, kind@noun
+f73@naître@to be born@verb
+f74@bois@wood; antlers@noun
+f75@camp@camp@noun
+f76@hôtel@hotel; french.languagedaily.com@noun
+f77@souffrir@to be in pain, suffer@verb
+f78@remercier@to thank@verb
+f79@sécurité@safety, security@noun
+f80@attraper@to catch@verb
+f81@courant@current, trend@noun
+f82@peuple@people@noun
+f83@vérifier@to check, verify@verb
+f84@journal@newspaper, diary, journal@noun
+f85@brûler@to burn@verb
+f86@loi@law, rule@noun
+f87@gosse@kid (colloquial, child, youngster) (see #745)@noun
+f88@situation@situation; job; location@noun
+f89@sauf@except@preposition
+f90@doute@doubt@noun
+f91@soldat@soldier@noun
+f92@assurer@to assure, insure@verb
+f93@humain@human@adjective
+f94@silence@silence@noun
+f95@victime@victim, casualty@noun
+f96@pute@whore@noun
+f97@meurtre@murder@noun
+f98@crime@crime@noun
+f99@doucement@gently, softly@adverb
+f100@colonel@colonel@noun
+f1@école@school@noun
+f2@chef@leader, chief, head@noun
+f3@cacher@to hide, conceal@verb
+f4@pays@country, nation, land (country)@noun
+f5@possible@possbile@adjective
+f6@battre@to beat@verb
+f7@livre@book; pound@noun
+f8@imaginer@to imagine, suppose@verb
+f9@adorer@to adore, love@verb
+f10@recevoir@to receive, to get@verb
+f11@jeter@to throw@verb
+f12@bébé@baby@noun
+f13@nouvelle@new, fresh; french.languagedaily.com@adjective
+f14@amener@to bring, take, bring about@verb
+f15@parent@relative, relation; parent@noun
+f16@service@service, favor@noun
+f17@promettre@to promise@verb
+f18@soeur (sœur)@sister@noun
+f19@lit@bed@noun
+f20@utiliser@to use@verb
+f21@coucher@to put to bed, lay down, to sleep@verb
+f22@dehors@outside, outdoors@adverb
+f23@préférer@to prefer@verb
+f24@derrière@behind@preposition, adverb
+f25@offrir@to offer, give@verb
+f26@verre@glass, drink@noun
+f27@aide@assistant; help, assistance@noun
+f28@journée@day@noun
+f29@numéro@number@noun
+f30@ramener@to bring back , take back@verb
+f31@calme@peace, calmness; quiet, calm (see #529)@noun, adjective
+f32@choisir@to choose@verb
+f33@conduire@to drive, lead@verb
+f34@calmer@to calm down, appease, sooth@verb
+f35@mariage@marriage, wedding@noun
+f36@route@road, journey, way@noun
+f37@secret@secret; secretive@noun, adjective
+f38@lever@to raise, lift@verb
+f39@présenter@to introduce, present@verb
+f40@baiser@kiss; to shag, screw, fuck@verb, noun
+f41@idiot@idiot; stupid@noun, adjective
+f42@café@coffee, café (bar)@noun
+f43@confiance@trust, confidence, belief@noun
+f44@bonsoir@good evening, good night@noun
+f45@téléphone@telephone, phone@noun
+f46@prochain@next@adjective
+f47@facile@easy@adjective
+f48@copain@friend, boyfriend@noun
+f49@rue@street@noun
+f50@lettre@letter@noun
+f51@cher@dear, beloved, darling, expensive@adjective
+f52@tourner@to turn, stir, toss, shoot (see #353)@verb
+f53@boulot@work, job@noun
+f54@ceux@this one, that one (masculine plural) (see #345, 543)@demonstrative pronoun
+f55@expliquer@to explain, account for@verb
+f56@peine@sorrow, grief, saddness, suffering@noun
+f57@agir@to act, behave; work, take effect@verb
+f58@tour@tower, castle, tour, ballot;languagedaily dot com@noun
+f59@vérité@truth@noun
+f60@gentil@kind, good, nice@adjective
+f1@cet@this, that (before vowel and mute h) (see #25, 73, 99)@demonstrative adjective
+f2@cela@this, that (used in formal contexts and expressions) (see #20)@demonstrative pronoun
+f3@oublier@to forget, miss@verb
+f4@salut@greeting; Hi!, Hello!, Bye! (see #180)@noun, onomatopoeia
+f5@travailler@to work, work on, practise@verb
+f6@tête@head, face@noun
+f7@écouter@to listen to@verb
+f8@manger@to eat@verb
+f9@entrer@to go in, enter, come in@verb
+f10@nouveau@new, fresh@noun, adjective
+f11@hein@what?, eh?, Huh? (familiar)@onomatopoeia
+f12@merde@shit (vulgar), bull, crap, damn@onomatopoeia, noun
+f13@voiture@car, coach, carriage@noun
+f14@demain@tomorrow@adverb
+f15@elles@they (refers to a group of feminine nouns or females)@personal pronoun
+f16@fou@mad, crazy; madman, fool@adjective, noun
+f17@ouvrir@to open@verb
+f18@fait@event, fact@noun
+f19@question@question, matter@noun
+f20@assez@enough, quite, fairly@adverb
+f21@excuser@to forgive, pardon, excuse@verb
+f22@dormir@to sleep; to lie idle@verb
+f23@frère@brother@noun
+f24@idée@idea, opinion@noun
+f25@puis@next, then, besides, plus (in addition)@conjunction, adverb
+f26@truc@trick, knack, thing@noun
+f27@tant@much, so much@adverb
+f28@ni@nor, or (negative)@conjunction
+f29@occuper@to occupy, live in, take up@verb
+f30@ok@OK; okay (satisfactory)@adjective, adverb
+f31@chance@luck, fortune, chance@noun
+f32@envoyer@to send, throw, dispatch, refer@verb
+f33@jeune@young, youthful; young person@adjective, noun
+f34@apprendre@to learn, to hear (about)@verb
+f35@boire@to drink (consume alcohol), to soak up@verb
+f36@quelques@some (quantity), small number, a few@indefinite adjective
+f37@porte@gate, door@noun
+f38@mec@guy, bloke@noun
+f39@porter@to carry, wear@verb
+f40@année@year@noun
+f41@prêt@ready@adjective
+f42@prier@to pray@verb
+f43@mois@month@noun
+f44@servir@to serve@verb
+f45@putain@whore, hooker@noun
+f46@part@part, share@noun
+f47@sang@blood@noun
+f48@espérer@to hope for@verb
+f49@désoler@to distress, upset@verb
+f50@retrouver@to find; to meet@verb
+f51@main@hand@noun
+f52@vite@quickly, fast, soon@adverb
+f53@air@air; look, appearance, manner@noun
+f54@fils@son@noun
+f55@moins@less@adverb
+f56@coup@blow, shot, kick, punch@noun
+f57@raison@reason@noun
+f58@amour@love, love affair, cupid@noun
+f59@dont@whose, of which@relative pronoun, interrogative pronoun
+f60@devenir@to become@verb
+f61@commencer@to start, begin@verb
+f62@moment@moment, while, point@noun
+f63@vieux@old; old man, old woman@adjective, noun
+f64@revoir@to see again, review; goodbye; french.languagedaily.com@noun, verb
+f65@payer@to pay@verb
+f66@tirer@to pull, draw@verb
+f67@oeil@eye, view (= œil) (plural is yeux)@noun
+f68@changer@to change, exchange@verb
+f69@tomber@to fall@verb
+f70@foutre@(slang) to do, give, put on; (vulgar) to have sex, to masturbate@verb
+f71@affaire@affiar, business@noun
+f72@combien@how much, how many@adverb
+f73@travail@wor, labor, employment@noun
+f74@eh@hey!@onomatopoeia
+f75@famille@family; languagedaily dot com@noun
+f76@trois@three@numerical adjective
+f77@souvenir@memory, souvenir; to remember@verb, noun
+f78@tous@everything, all (plural)@indefinite pronoun
+f79@entre@between, among@preposition
+f80@marcher@to walk, march, go@verb
+f81@aujourd'hui@today, nowadays@adverb
+f82@histoire@history, story@noun
+f83@tard@late@adverb
+f84@minute@minute@noun
+f85@garder@to keep, to look after, to guard@verb
+f86@type@type, kind; guy (colloquial)@noun
+f87@montrer@to show, point out@verb
+f88@asseoir@to sit down, sit up@verb
+f89@attention@attention@onomatopoeia, noun
+f90@sous@under@preposition
+f91@contre@against@preposition
+f92@pendant@for, during@preposition
+f93@meilleur@better; the best one@adjective, noun
+f94@madame@madam, Mrs@noun
+f95@écrire@to write@verb
+f96@eau@water@noun
+f97@place@room, square, seat@noun
+f98@plein@full, solid@adjective, preposition
+f99@eux@them, they@personal pronoun
+f100@ville@town, city@noun
+f1@terre@earth, ground@noun
+f2@semaine@week@noun
+f3@longtemps@long, for a long time@adverb
+f4@chambre@bedroom, chamber@noun
+f5@côté@coast, slope, side@noun
+f6@rappeler@to remind, remember, call back, be reminiscent of@verb
+f7@cas@case, instance@noun
+f8@seulement@only, solely@adverb
+f9@monter@to go up, rise, come up@verb
+f10@quitter@to leave, depart@verb
+f11@suite@rest, result, continuation french.languagedaily.com@noun
+f12@emmener@to take (somebody), take along@verb
+f13@continuer@to continue, go on@verb
+f14@fort@strong, solid; loud, much, most@adverb, adjective
+f15@enfin@finally, at last@adverb
+f16@mari@husband@noun
+f17@importer@to import; to matter@verb
+f18@train@train, pace@noun
+f19@raconter@to tell@verb
+f20@mauvais@bad, poor, wrong@adjective
+f21@répondre@to answer, reply@verb
+f22@chéri@darling, loved; boyfriend, girlfriend, beloved@noun, adjective
+f23@celui@the one, that one (singular masculine) (see #408, 543)@demonstrative pronoun
+f24@heureux@happy, felicitous@adjective
+f25@aucun@no, not any; none (see #399)@indefinite adjective, indefinite pronoun
+f26@sauver@to save; languagedaily dot com@verb
+f27@retourner@to turn, turn over, return (see #404)@verb
+f28@rencontrer@to meet, encounter@verb
+f29@voler@to flly; to steal, swipe@verb
+f30@car@because, for (see #186)@conjunction
+f31@descendre@to take down, go down, come down@verb
+f32@docteur@doctor, physician  (see #548)@noun
+f33@façon@way, manner, behaviour@noun
+f34@sembler@to seem, appear, look@verb
+f35@compter@to count@verb
+f36@joli@nice, tidy, pretty (attractive), lovely (beautiful)@adjective
+f37@noir@black; black man/woman@adjective, noun
+f38@chien@dog@noun
+f39@genre@kind, type, sort@noun
+f40@arme@weapon@noun
+f41@endroit@place@noun
+f42@poser@to put down, lay, pose, sit@verb
+f43@pied@foot; stem, leg, base@noun
+f44@près@near@preposition, adverb
+f45@tiens@Why!, Hello! (surprise)@onomatopoeia
+f46@d'autres@others; more@indefinite adjective, indefinite pronoun
+f47@plutôt@rather, quite@adverb
+f48@photo@photo, photography@noun
+f49@ainsi@like this, in this way@adverb
+f50@aucune@no, not any, in no way (see #349)@indefinite adjective
+f51@gagner@to win, earn@verb
+f52@acheter@to buy@verb
+f53@gars@boy, chap, guy (see #342)@noun
+f54@hé@Hey! (to attract attention)@onomatopoeia
+f55@droit@law, right; straight@noun, adjective
+f56@lire@to read@verb
+f57@mot@word@noun
+f58@voici@here is, here are@preposition
+f59@désolé@contrite, desolate, afraid, sorry@adjective
+f60@police@police@noun
+f61@matin@morning@noun
+f62@toucher@to touch@verb
+f63@devant@in front, ahead; in front of, ahead of, past, before@preposition, adverb
+f64@gros@big, large, thick, heavy@adjective
+f65@pardon@I'm sorry!, Excuse me!, Pardon?; forgiveness@onomatopoeia, noun
+f66@là-bas@there, over there@adverb
+f67@papa@daddy, dad@noun
+f68@manquer@to miss, to miss somebody@verb
+f69@ensemble@together, at once@adverb
+f70@film@film, movie@noun
+f71@garçon@boy, chap, guy (see #306)@noun
+f72@corps@body@noun
+f73@autres@other@indefinite pronoun
+f74@loin@far, a long way off, a long time ago@adverb
+f75@pauvre@poor; poor person, beggar@adjective, noun
+f76@chaque@each, every@indefinite adjective
+f77@leurs@theirs (3rd person masculine or feminine plural)@possessive adjective
+f78@coeur@core, heart@noun
+f79@fermer@to close, shut@verb
+f80@valoir@to hold, apply; to be worth@verb
+f81@feu@fire@noun
+f82@suffire@to be enough, suffice@verb
+f83@important@important, considerable, sizeable@adjective
+f84@super@great, fantastic; high-octane gasoline@adjective, noun
+f85@vers@towards, near, around, about (time, age)@preposition
+f86@point@dot, full stop, period@noun
+f87@hier@yesterday@adverb
+f88@guerre@war@noun
+f89@marier@to marry, get married@verb
+f90@cause@cause, reason@noun
+f91@ordre@order, command@noun
+f92@reste@the remainder, rest@noun
+f93@envie@desire, urge, craving@noun
+f94@fin@end, ending@noun
+f95@inquiéter@to worry, bother, trouble@verb
+f96@bouger@to move@verb
+f97@apporter@to bring, supply@verb
+f98@décider@to decide@verb
+f99@certain@certain, sure@adjective, indefinite adjective
+f100@vendre@to sell@verb
+f1@au@at the, to the, in the (contraction of à + le; used with a singular masculine noun)@definite article
+f2@moi@I, me@personal pronoun
+f3@quoi@what (exclamatory, interrogative, after preposition)@adjective, relative pronoun, interrogative pronoun
+f4@oui@yes@adverb
+f5@comme@as, like; how, same@conjunction, adverb
+f6@venir@to come, occur@verb
+f7@toi@you@personal pronoun
+f8@rien@nothing@indefinite pronoun
+f9@bon@good, right, kind; good!; voucher; then; french.languagedaily.com@adjective, onomatopoeia, noun, adverb
+f10@suivre@to follow@verb
+f11@parler@to speak, talk@verb
+f12@cette@this, that (feminine singular)@demonstrative adjective
+f13@alors@then; so; hence@adverb
+f14@par@per, by, through, out of@preposition
+f15@croire@to believe, think@verb
+f16@falloir@it is necessary, must, have to@verb
+f17@très@very@adverb
+f18@passer@to pass, go by, cross@verb
+f19@aussi@also, too@adverb
+f20@attendre@to wait for, expect@verb
+f21@laisser@to leave@verb
+f22@merci@thanks, thank you@onomatopoeia, noun
+f23@sa@his, her, its (feminine)@possessive adjective
+f24@autre@other, another, different (singular)@adjective, indefinite pronoun
+f25@ces@these, those (plural form of masculine "ce" and feminine "cette")@demonstrative adjective
+f26@avec@with@preposition
+f27@si@yes; if; so, such@adverb, conjunction
+f28@devoir@to have to, must; duty, test@verb, noun
+f29@ils@they (refers to a group of masculine or mixed masculine/feminine nouns)@personal pronoun
+f30@s'@himself, herself, themselves (variation of "se" used before a word starting with a vowel or mute h)@personal pronoun, conjunction
+f31@sur@on, upon; over (preposition); sour (adjective)@preposition, adjective
+f32@ici@here@adverb
+f33@lui@he, him, it, her@personal pronoun
+f34@là@there, here, then@adverb
+f35@pourquoi@why@adverb, conjunction
+f36@prendre@to take, get@verb
+f37@quand@when, whenever@conjunction
+f38@une chose@thing, matter@noun
+f39@son@his, her, its (possessive adjective); sound (noun - le son)@possessive adjective
+f40@aimer@to love, like, be fond of@verb
+f41@comment@how; what@adverb, conjunction, onomatopoeia
+f42@ou@or; either… or@conjunction
+f43@penser@to think@verb
+f44@jamais@never@adverb
+f45@trouver@to find@verb
+f46@petit@small, little, young (adjective); languagedaily dot com; kid, child (masculine noun)@adjective, noun
+f47@même@same; even, so much as, as@adverb, adjective
+f48@ta@your (reminine)@possessive adjective
+f49@arriver@to arrive@verb
+f50@donner@to give, give away@verb
